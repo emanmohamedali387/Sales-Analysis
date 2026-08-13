@@ -1,22 +1,7 @@
 # Sales-Analysis
 # 📊 Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](Sales%20Overview.jpeg)
 
-## 👩‍💻 About the Project
-
-This project focuses on analyzing sales data using Microsoft Excel to understand overall sales performance, product performance, shipping costs, and geographical sales distribution.
-
-The project is divided into four connected dashboard sections:
-
-- **Sales Overview**
-- **Product Analysis**
-- **Shipping Analysis**
-- **Territory Analysis**
-
-Each dashboard provides a different perspective of the same sales data, while together they provide a complete overview of the company's sales performance.
-
----
 
 # 1️⃣ Sales Overview
 
